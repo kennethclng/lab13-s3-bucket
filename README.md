@@ -9,8 +9,8 @@ The lock file is present after a change to the config is made and terraform appl
 ## Is the lock file always in the bucket after it is created?
 No. The lock file disappeared after we confirmed that we want to apply the configuration by typing "yes". 
 
-## lock-file.png
-![lock-file](./lock-file.png)
-
 ## state-file.png 
 ![state-file](./state-file.png)
+
+## lock-file.png
+![lock-file](./lock-file.png)
